@@ -1,6 +1,6 @@
 ---
-name: lean-dev-loop
-description: Use a token-efficient Chinese two-agent development loop for code-change requests: main agent plans, subagent reviews, user approves before edits, tests must pass, final output includes a short commit message.
+name: dev-loop
+description: "Use a token-efficient Chinese two-agent development loop for code-change requests: main agent plans, subagent reviews, user approves before edits, tests must pass, final output includes a short commit message."
 ---
 
 # Lean Dev Loop
