@@ -55,6 +55,7 @@ Not complex by themselves:
 
 3. Ask clarifying questions
    - Ask questions in Chinese to confirm your understanding of key points.
+   - must confirm the implementation details of all requirements with the user; do not make decisions unilaterally.
 
 4. Plan
    - Main agent drafts a short plan: target files, change scope, tests.
